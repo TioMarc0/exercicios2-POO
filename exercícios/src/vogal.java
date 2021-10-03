@@ -14,7 +14,7 @@ public class vogal {
 			System.out.println("É uma vogal");
 			break;
 			}
-		
+		ent.close();
 			 
 		}
 		
